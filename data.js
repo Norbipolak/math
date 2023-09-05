@@ -9,4 +9,3 @@ const minutes = Math.floor(seconds / 60)
 seconds = seconds % 60
 
 console.log(hours, 'óra', minutes, 'perc', seconds, 'másodperc')
-
